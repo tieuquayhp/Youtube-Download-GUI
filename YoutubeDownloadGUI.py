@@ -58,7 +58,6 @@ def download_link_c():
     #link field
     link_field = Entry(screen, width=50)
     link_label = Label(screen, text="( 1) Enter Download Link: ", font=('Arial',15))
-    
 
     #Select Path for saving file
     path_label = Label(screen, text="( 2) Select Path For Download", font=('Arial',15))
